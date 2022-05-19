@@ -1,4 +1,4 @@
-# Analysis of Lucene,Solr and Elasticsearch
+# Analysis of Lucene,Solr and Elasticsearch for Full Text Search
 
 ### Abstract
 
