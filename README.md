@@ -2,9 +2,7 @@
 
 ### Abstract
 
-    Full text search used for searching some text inside extensive text data stored electronically 
-    and returning results that contain some or all of the words from the query. We will be analyzing the Lucene, 
-    Solr and Elasticsearch for Full text searching with there features and efficiency. 
+Full text search used for searching some text inside extensive text data stored electronically and returning results that contain some or all of the words from the query. We will be analyzing the Lucene, Solr and Elasticsearch for Full text searching with there features and efficiency. 
   
 ### Details about Lucene, Solr and Elasticsearch
 
